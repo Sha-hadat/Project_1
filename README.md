@@ -1,2 +1,2 @@
-# projet_1
-project link: https://sha-hadat.github.io/project_1/
+# Projet_1
+Project link: https://sha-hadat.github.io/project_1/
